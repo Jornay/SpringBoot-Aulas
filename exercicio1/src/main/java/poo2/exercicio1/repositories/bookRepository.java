@@ -27,6 +27,8 @@ public class bookRepository {
         List <Book> list =  new ArrayList<>();
         list.add(b1);
         list.add(b2);
+        list.add(b1);
+        list.add(b2);
 
         return list;
 
