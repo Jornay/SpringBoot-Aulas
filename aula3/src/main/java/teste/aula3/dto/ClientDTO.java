@@ -1,4 +1,4 @@
-package teste.aula1.dto;
+package teste.aula3.dto;
 
 public class ClientDTO {
     private Long id;

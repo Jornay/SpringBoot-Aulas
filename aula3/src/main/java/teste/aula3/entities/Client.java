@@ -1,4 +1,4 @@
-package teste.aula1.entities;
+package teste.aula3.entities;
 
 
 import java.io.Serializable;

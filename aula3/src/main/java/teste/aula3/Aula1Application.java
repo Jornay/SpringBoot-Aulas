@@ -1,4 +1,4 @@
-package teste.aula1;
+package teste.aula3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

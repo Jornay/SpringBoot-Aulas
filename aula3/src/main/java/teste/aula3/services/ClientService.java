@@ -1,4 +1,4 @@
-package teste.aula1.services;
+package teste.aula3.services;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import teste.aula1.dto.ClientDTO;
-import teste.aula1.entities.Client;
-import teste.aula1.repositories.ClientRepository;
+import teste.aula3.dto.ClientDTO;
+import teste.aula3.entities.Client;
+import teste.aula3.repositories.ClientRepository;
 
 @Service
 public class ClientService {

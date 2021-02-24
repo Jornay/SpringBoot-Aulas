@@ -1,9 +1,10 @@
-package teste.aula1.repositories;
+package teste.aula3.repositories;
 
 import org.springframework.stereotype.Repository;
-import org.springframework.data.jpa.repository.JpaRepository;
 
-import teste.aula1.entities.Client;
+import teste.aula3.entities.Client;
+
+import org.springframework.data.jpa.repository.JpaRepository;
 
 @Repository
 public interface ClientRepository extends JpaRepository <Client, Long>{
